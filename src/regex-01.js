@@ -1,3 +1,4 @@
+/* eslint-disable prefer-regex-literals */
 /*
  * regex-01.js
  * Language: javascript
